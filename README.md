@@ -10,6 +10,6 @@ Run server
 | SB Admin 2 | <https://github.com/fitra95/sb-admin-barang> |
 
 ## Social Media
-[Instagram](ftrh_111)
+[Instagram](https://instagram.com/ftrh_111)
 [Github](https://github.com/fitra95)
 [no.handphone](088211273927)
