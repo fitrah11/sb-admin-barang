@@ -12,4 +12,4 @@ Run server
 ## Social Media
 [Instagram](https://instagram.com/ftrh_111)
 [Github](https://github.com/fitra95)
-[no.handphone](wa.me//088211273927)
+[no.handphone](https://wa.me/088211273927)
