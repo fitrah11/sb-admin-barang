@@ -7,7 +7,7 @@ Run server
 
 | Name       | Link                                          
 | ---------- | --------------------------------------------- |
-| SB Admin 2 | <""> |
+| SB Admin 2 | <https://github.com/fitra95/sb-admin-barang> |
 
 ## Social Media
 [Instagram]("")
